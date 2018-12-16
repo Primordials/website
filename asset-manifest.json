@@ -1,14 +1,16 @@
 {
-  "main.css": "/website/static/css/main.97b5bc31.chunk.css",
-  "main.js": "/website/static/js/main.f8fa67e4.chunk.js",
-  "main.js.map": "/website/static/js/main.f8fa67e4.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "/website/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "/website/static/js/1.82dafdb5.chunk.js.map",
+  "main.css": "/website/static/css/main.82eaaa23.chunk.css",
+  "main.js": "/website/static/js/main.3285711e.chunk.js",
+  "main.js.map": "/website/static/js/main.3285711e.chunk.js.map",
+  "static/js/1.3ad0edc2.chunk.js": "/website/static/js/1.3ad0edc2.chunk.js",
+  "static/js/1.3ad0edc2.chunk.js.map": "/website/static/js/1.3ad0edc2.chunk.js.map",
   "runtime~main.js": "/website/static/js/runtime~main.df8eefd1.js",
   "runtime~main.js.map": "/website/static/js/runtime~main.df8eefd1.js.map",
+  "static/media/Discord2.png": "/website/static/media/Discord2.05f1d976.png",
+  "static/media/header2.jpg": "/website/static/media/header2.5c048f1c.jpg",
   "static/media/logo.svg": "/website/static/media/logo.5d5d9eef.svg",
-  "static/css/main.97b5bc31.chunk.css.map": "/website/static/css/main.97b5bc31.chunk.css.map",
+  "static/css/main.82eaaa23.chunk.css.map": "/website/static/css/main.82eaaa23.chunk.css.map",
   "index.html": "/website/index.html",
-  "precache-manifest.38e91d81cf6157411b75392e72b3a245.js": "/website/precache-manifest.38e91d81cf6157411b75392e72b3a245.js",
+  "precache-manifest.70dabb3f2ef3e82a97ee4e901894de58.js": "/website/precache-manifest.70dabb3f2ef3e82a97ee4e901894de58.js",
   "service-worker.js": "/website/service-worker.js"
 }
